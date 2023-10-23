@@ -1,0 +1,11 @@
+.container-episode{
+display: grid;
+grid-template-columns: repeat(3, 1fr);
+gap: 50px;
+padding: 50px;
+}
+.episode{
+    text-align: center;
+    border: 2px solid red;
+    border-radius: 10px;
+}
