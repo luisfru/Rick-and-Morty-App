@@ -9,6 +9,10 @@ function Character() {
       .catch(error => console.log(error))
     },[])
     return (
+      <>
+      <div className="title">
+      <h2>Rick And Morty</h2>
+      </div>
         <div className="container">
           {characters.map((character, index) => (
             <div key={index} className='card'>
@@ -24,6 +28,7 @@ function Character() {
               </div>
           ))}
         </div>
+      </>
   );
 };
   export default Character;

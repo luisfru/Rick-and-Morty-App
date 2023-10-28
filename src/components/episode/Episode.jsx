@@ -24,8 +24,7 @@ return (
             <div key={index} className="episode">
               <p>{episode.episode}: {episode.name}</p>
               <p>Air date: {episode.air_date}</p>
-              <p>Characters:
-                {episode.characters.map((residentUrl, residentIndex) => {
+              <p>Characters: {episode.characters.map((residentUrl, residentIndex) => {
                   const getIdFromUrl = (url) => {
                     const parts = url.split('/');
                     return parseInt(parts[parts.length - 1]);
