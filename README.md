@@ -2,9 +2,7 @@
 
 This project was built using React and plain css
 
-i used [Rick and morty API](https://rickandmortyapi.com/) each component (characters, episode, location) contains the specific
-
-response call.
+i used [Rick and morty API](https://rickandmortyapi.com/) each component (characters, episode, location) contains the specific response call.
 
 ## Characters:
 
