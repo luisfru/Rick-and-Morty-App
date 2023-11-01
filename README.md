@@ -8,8 +8,6 @@ every data such as characters was put in the page of Characters, location data i
 
 and episode data its in Episode page.
 
-(https://rickandmortyapi.com/)
-
 ## Characters:
 
 ![characters page](./src/assets/characters.png)
