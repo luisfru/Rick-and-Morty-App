@@ -2,13 +2,13 @@
 
 This project was built using React and plain css
 
-i used the api of rick and morty to obtain every data from Characters,Location and Episode,
+i used [Rick and morty API](https://rickandmortyapi.com/) to obtain every data from Characters,Location and Episode,
 
 every data such as characters was put in the page of Characters, location data its in Location page,
 
 and episode data its in Episode page.
 
-https://rickandmortyapi.com/api
+(https://rickandmortyapi.com/)
 
 ## Characters:
 
